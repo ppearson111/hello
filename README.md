@@ -1,2 +1,2 @@
-Initial GO program -- the standard hello world app.
+Initial GO program -- the standard "hello world" app.
 
